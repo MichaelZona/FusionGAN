@@ -2,6 +2,8 @@
 
 We write our code based on the great work of [DeblurGAN](https://github.com/KupynOrest/DeblurGAN)
 
+The submitted paper is [here](https://cmt3.research.microsoft.com/ICCV2023/Submission/Summary/11970). [paper]()
+
 ## How to run
 
 ### Prerequisites
