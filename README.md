@@ -2,7 +2,7 @@
 
 We write our code based on the great work of [DeblurGAN](https://github.com/KupynOrest/DeblurGAN)
 
-The submitted paper is [here](https://cmt3.research.microsoft.com/ICCV2023/Submission/Summary/11970). [paper]()
+The submitted paper is [here](https://cmt3.research.microsoft.com/ICCV2023/Submission/Summary/11970). [paper](https://github.com/MichaelZona/FusionGAN/blob/main/MRI_FusionGAN__ICCV_.pdf)
 
 ## How to run
 
